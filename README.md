@@ -5,4 +5,4 @@ Windows saves the WLAN-profiles in XML-files placed in the ProgramData\Microsoft
 **NOTE:** To effect the changes a restart is required.
 **NOTE:** In case of 'Permission Denied' error, run the script with Administrator rights.
 
-Replace the variables '$network1' and '$network2'the name of the WLAN-profiles you want to preserve. After that, you can run the script. If you want to run this script on a regular basis from the Task Scheduler, check this page: blogs.technet.com/b/heyscriptingguy/archive/2012/08/11/weekend-scripter-use-the-windows-task-scheduler-to-run-a-windows-powershell-script.aspx
+Replace the variables ```$network1``` and ```$network2``` the name of the WLAN-profiles you want to preserve. After that, you can run the script. If you want to run this script on a regular basis from the Task Scheduler, check this page: blogs.technet.com/b/heyscriptingguy/archive/2012/08/11/weekend-scripter-use-the-windows-task-scheduler-to-run-a-windows-powershell-script.aspx
